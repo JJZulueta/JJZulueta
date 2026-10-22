@@ -1,32 +1,43 @@
-# <a href="https://www.linkedin.com/in/justice-zulueta-b935a6300/">Justice Zulueta</a>'s IT and Cybersecurity Project Portfolio 🔐
+# Justice Zulueta’s IT Support Portfolio 💻
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Welcome to my IT support portfolio.
 
+I’m based in Christchurch, New Zealand, with a background in healthcare support and customer service. I bring a calm, people-focused approach to solving problems and helping others.
 
-## ⚠️ Vulnerability Management Projects
+This portfolio documents my practical IT support projects, covering Windows troubleshooting, account administration, application support, and access management. Each completed project will show the problem, investigation, resolution, and verification, supported by screenshots and service desk documentation.
 
-- **[Vulnerability Management Program Implementation](https://github.com/JJZulueta/vulnerability-management-program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+## 🛠️ Service Desk and IT Support Projects
 
-## 🚨 Threat Hunting and Security Operations
+The following projects are planned and will be completed individually using a Windows 11 Pro virtual machine in Azure.
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+| Project | Focus | Status |
+|---|---|---|
+| Account Access Recovery | Investigating sign-in failures and restoring access to local test accounts | Planned |
+| Internal Portal Troubleshooting | Diagnosing access failures and hostname resolution issues | Planned |
+| Print Service Troubleshooting | Investigating Windows printing and Print Spooler issues | Planned |
+| Application Outage and Escalation | Assessing impact, gathering evidence, communicating updates, and validating recovery | Planned |
+| Staff Access Management | Managing local users, groups, and folder permissions through staff role changes | Planned |
 
-<hr/>
+These are independent lab simulations using fictional users and data.
 
-## 🤳 Connect With Me
+## 📝 Project Documentation
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Each completed project will include:
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/justice-zulueta-b935a6300/
+- The reported problem and its business impact.
+- The lab environment and tools used.
+- A service desk ticket with troubleshooting notes.
+- Screenshots showing key findings and actions.
+- Resolution steps and verification results.
+- Escalation considerations and lessons learned.
 
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+## 🎓 Certifications
+
+- CompTIA Network+
+- CompTIA Security+
+- CompTIA PenTest+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+
+## 📬 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/justice-zulueta-b935a6300/) · [GitHub](https://github.com/JJZulueta)

@@ -14,7 +14,7 @@ These projects use a Windows 11 Pro virtual machine in Azure. Completed projects
 |---|---|---|
 | [Account Access Recovery](https://github.com/JJZulueta/account-access-recovery) | Investigating a disabled local account, restoring access, and verifying recovery | Completed |
 | [Internal Portal Troubleshooting](https://github.com/JJZulueta/internal-portal-troubleshooting) | Diagnosing an incorrect hosts-file mapping, restoring portal access, and verifying recovery | Completed |
-| Print Service Troubleshooting | Investigating Windows printing and Print Spooler issues | Planned |
+| [Print Service Troubleshooting](https://github.com/JJZulueta/print-service-troubleshooting) | Investigating a printing failure, restoring the Print Spooler, and verifying successful printing | Completed |
 | Application Outage and Escalation | Assessing impact, gathering evidence, communicating updates, and validating recovery | Planned |
 | Staff Access Management | Managing local users, groups, and folder permissions through staff role changes | Planned |
 
